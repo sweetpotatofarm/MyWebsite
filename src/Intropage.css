@@ -4,13 +4,14 @@
     width: 100%;
     color: white;
     position: relative;
+    margin-top: 80px;
+    z-index: -1;
 }
 
 .IntroBackground{
     display: flex;
     height: 100%;
     width: 100%;
-    filter: grayscale(50%);
 }
 
 .IntroText{
@@ -19,7 +20,7 @@
     width: 40%;
     position: absolute;
     top: 40%;
-    left: 30%;
+    left: 50%;
     justify-content: center;
     color: black;
     letter-spacing: 3px;
