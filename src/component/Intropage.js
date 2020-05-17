@@ -1,6 +1,6 @@
 import React from 'react';
 import './Intropage.css'
-import Background from './pic/background.jpg';
+import Background from '../pic/background.jpg';
 
 class Intropage extends React.Component{
     render(){

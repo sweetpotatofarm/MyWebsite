@@ -29,6 +29,7 @@
 
 .Home:hover{
     color: #f8f9fa;
+    text-decoration: none;
 }
 
 .NavbarAbout{
@@ -43,6 +44,7 @@
 
 .NavbarAbout:hover{
     color: #f8f9fa;
+    text-decoration: none;
 }
 
 .Projects{
@@ -57,4 +59,5 @@
 
 .Projects:hover{
     color: #f8f9fa;
+    text-decoration: none;
 }
